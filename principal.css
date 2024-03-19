@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+body{
+	max-width: 930px;
+	margin: 0 auto;
+	background-color: #94bfa5 ;
+	background: url("img_index/ambiente-6.jpg");
+}
+
+
+.cabeca img{
+	width: 110px;
+	float: left;
+	text-align:right;
+	max-width: 100%;
+	height: auto;
+}
+.cabeca ul{
+	margin-top: 25px;
+	margin-right: 25px;
+	float: right;
+	text-align: right;}
+
+.cabeca a{
+		float: left;
+		padding: 14px 16px;
+		font-size: 17px;
+		text-decoration: none;	
+		color: #801214;
+	}
+
+li{
+	font-size: 10px;
+	width: 100px;	
+	display:inline;
+	border-radius: 4px;
+}
+
+
+
+#esconderlista{
+	display: none;
+	width: 60px;
+	height: auto;
+}
+main{
+	border-radius:8px;
+	background-color:white;
+	max-width: 100%;
+	height:auto;
+	padding-bottom: 15px;
+}
+
+.principal1{
+	text-align: center;
+	margin-top: 5px;
+	padding-top: 5px;
+	max-width: 98%;
+	height:auto;
+	
+}
+
+.principal2 img{
+	padding: 5px;
+	margin: 5px;
+	max-width: 98%;
+	border-radius: 15px;
+	height:auto;
+}
+
+
+footer{
+	opacity:0.9;
+	padding: 10px;
+	text-align: center;
+	background-color: white;
+	border-radius:8px;
+	margin: 20px auto;
+	color:  #801214;
+	max-width: 100%;
+	height: auto;
+}
+
+
+.rodape img{
+	width: 45px;
+	height: auto;
+}
+.rodape .lgimg{
+	border-radius: 12px;
+	width:40px;
+}
+.rodape ul{
+	padding:1px;
+	margin:1px;
+	list-style-type: none;
+}
+.rodape li{
+	display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
